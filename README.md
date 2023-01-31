@@ -11,3 +11,9 @@ SELECT *
 FROM publishers
 WHERE something
 ```
+
+> indentation - good for quotes
+
+Two stars create **Bold Text**
+
+Strikethrough with 2 ~~wavy lines~~
